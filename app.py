@@ -41,7 +41,7 @@ for subject in subjects:
 
 # Default values for inputs
 default_values = {
-    "Average_Grade": 75.0, "Max_Score": 100.0, "G3": 10.0, "G2": 18.0, "G1": 16.0,
+    "Average_Grade": 10.0, "Max_Score": 100.0, "G3": 10.0, "G2": 18.0, "G1": 16.0,
     "studytime": 2.0, "Medu": 3.0, "going_out": 2.0, "traveltime": 1.0, "activities": 1.0
 }
 
