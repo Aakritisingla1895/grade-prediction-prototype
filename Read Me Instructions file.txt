@@ -1,0 +1,13 @@
+Essteniatls :
+	1. Jupyter notebook 
+	2. Vs code
+	
+Libraries :
+	Python 10 or above 
+	requirements.text file  -> pip install requirements.txt  this will install all necessary libraries 
+
+Run the jupyter notebbok Student Performance prediction Final Code , run each cell to see outputs 
+
+To run:
+
+cmd in folder  -> streamlit run app.py
