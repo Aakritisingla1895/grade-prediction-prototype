@@ -46,14 +46,14 @@ default_values = {
 }
 
 st.set_page_config(layout="wide")
-st.title("📊 G4 Score Predictor")
+st.title("Gradelytics")
 
 # Create tabs
 tab1, tab2, tab3, tab4 = st.tabs(subjects)
 
 for i, subject in enumerate(subjects):
     with [tab1, tab2, tab3, tab4][i]:
-        st.subheader(f"🎯 Predict G4 Score for {subject}")
+        st.subheader(f"🎯 Predict G4 - Final Semester Score for {subject}")
         user_input = {}
         col1, col2 = st.columns(2)
         
